@@ -1,0 +1,28 @@
+segment_sources:
+  I41F01F34:
+    type: origin_type
+    relation: translation
+    language: sa
+  IF0D7434B:
+    type: origin_type
+    relation: translation
+    language: zh
+  I5FE710B7:
+    type: origin_type
+    relation: translation
+    language: bo
+  IDBC86A16:
+    type: origin_type
+    relation: translation
+    language: en
+  IE45F9CB7:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  2e174395ff7b4a858d3a49534d5c8de5:
+    I41F01F34: c30a849c3ea54895a7f00224f5b88a4d
+    IF0D7434B: 44eec2bccecd451fa6570576debfe3b5
+    I5FE710B7: 7bf26a4c59d240efa1a0b2129501614e
+    IDBC86A16: None
+    IE45F9CB7: bad6b6fbc7d741ea92fcb878f1a5a2f5
